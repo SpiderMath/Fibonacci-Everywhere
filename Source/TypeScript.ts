@@ -1,14 +1,13 @@
-// @ts-ignore
-const { MAX_SAFE_INTEGER } = Number;
+let prevFibonacci2: bigint = BigInt("0");
+let prevFibonacci1: bigint = BigInt("1");
+let currentFibonacci: bigint = BigInt("0");
 
-let prevFibonacci2: number = 0;
-let prevFibonacci1: number = 1;
-let currentFibonacci: number = 0;
-
-while(currentFibonacci < MAX_SAFE_INTEGER) {
+while(true) {
 	currentFibonacci = prevFibonacci1 + prevFibonacci2;
 
-	console.log(`${currentFibonacci}\n`);
+	console.log(`${currentFibonacci.toString()}\n`);
 	prevFibonacci2 = prevFibonacci1;
 	prevFibonacci1 = currentFibonacci;
 }
+
+// Goes on till infinity, or atleast till we continue the program or the memory goes booom
