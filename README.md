@@ -13,5 +13,7 @@
 
 - JavaScript: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/JavaScript.js) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/JavaScript) </b>
 
+- TypeScript: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/TypeScript.ts) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
+
 </i>
 </details>
