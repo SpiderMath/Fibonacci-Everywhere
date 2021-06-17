@@ -1,17 +1,19 @@
+import java.math.BigInteger;
+
 class Fibonacci {
 	public static void main(String[] args) {
-		int currentFibonacci = 0;
-		int previousFibonacci1 = 1;
-		int previousFibonacci2 = 0;
+		BigInteger currentFibonacci = new BigInteger("0");
+		BigInteger previousFibonacci1 = new BigInteger("1");
+		BigInteger previousFibonacci2 = new BigInteger("0");
 
 		while(true) {
-			currentFibonacci = previousFibonacci1 + previousFibonacci2;
+			currentFibonacci = previousFibonacci1.add(previousFibonacci2);
 
-			if(currentFibonacci < 0) break;
-			System.out.println(currentFibonacci);
+			System.out.println(currentFibonacci + "\n");
 
 			previousFibonacci2 = previousFibonacci1;
 			previousFibonacci1 = currentFibonacci;
+			// This will continue till infinity or computer goes out of rage [or till you stop the program]
 		}
 	}
 }
