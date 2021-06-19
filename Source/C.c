@@ -10,12 +10,14 @@
 // 	while (clock() < endwait) {}
 // }
 
-int main() {
+int main()
+{
 	unsigned long long int currentFibonacci = 0;
 	unsigned long long int prevFibonacci1 = 1;
 	unsigned long long int prevFibonacci2 = 0;
 
-	while(1 == 1) {
+	while(1 == 1)
+	{
 		currentFibonacci = prevFibonacci1 + prevFibonacci2;
 
 		// timeout(1);
