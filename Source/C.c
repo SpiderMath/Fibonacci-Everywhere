@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+// If you wanna like wait for some time before moving on to the next number, uncomment the commented code
 // #include <time.h>
 
 // void timeout (int seconds)
