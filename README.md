@@ -21,6 +21,8 @@
 
 - JavaScript: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/JavaScript.js) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/JavaScript) </b>
 
+- JSF*ck: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/JSFuck.js) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/JSFuck) </b>
+
 - Rust: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/Rust.rs) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) </b>
 
 - TypeScript: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/TypeScript.ts) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
