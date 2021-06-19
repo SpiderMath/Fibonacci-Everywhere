@@ -11,7 +11,17 @@
 <summary> <b>Languages Finished</b> </summary>
 <i>
 
+- C: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/C.c) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
+
+- C++: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/C++.cpp) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
+
+- C#: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/CSharp.cs) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
+
+- Java: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/Java.java) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
+
 - JavaScript: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/JavaScript.js) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/JavaScript) </b>
+
+- Rust: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/Rust.rs) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
 
 - TypeScript: <b> [Code](https://github.com/SpiderMath/Fibonacc-Everywhere/blob/main/Source/TypeScript.ts) </b> & <b> [Wikipedia](https://en.wikipedia.org/wiki/TypeScript) </b>
 
