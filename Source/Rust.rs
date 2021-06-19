@@ -9,6 +9,9 @@ fn main() {
 	loop {
 		current_fibonacci = previous_fibonacci_1 + previous_fibonacci_2;
 
+		// If you want your code to go a bit slow then you can uncomment the following line, the function takes in (seconds, nanoseconds) for your information
+		// std::thread::sleep(std::time::Duration::new(1, 0));
+
 		println!("{}\n", current_fibonacci);
 
 		previous_fibonacci_1 = previous_fibonacci_2;
