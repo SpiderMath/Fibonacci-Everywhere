@@ -1,5 +1,13 @@
 #include <stdio.h>
 #include <conio.h>
+// #include <time.h>
+
+// void timeout (int seconds)
+// {
+// 	clock_t endwait;
+// 	endwait = clock() + seconds * CLOCKS_PER_SEC ;
+// 	while (clock() < endwait) {}
+// }
 
 int main() {
 	unsigned long long int currentFibonacci = 0;
@@ -8,6 +16,9 @@ int main() {
 
 	while(1 == 1) {
 		currentFibonacci = prevFibonacci1 + prevFibonacci2;
+
+		// timeout(1);
+		// Timeout time has to be in Seconds
 
 		if(currentFibonacci < prevFibonacci1) break;
 
