@@ -9,6 +9,8 @@ class Fibonacci {
 		while(true) {
 			currentFibonacci = previousFibonacci1.add(previousFibonacci2);
 
+			// Thread.sleep(1000);
+			// Time is in MILISECONDS HERE, if you don't want your terminal to go boooooooom, you might wanna uncomment it
 			System.out.println(currentFibonacci + "\n");
 
 			previousFibonacci2 = previousFibonacci1;
