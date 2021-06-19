@@ -13,7 +13,7 @@ class Fibonacci {
 
 			previousFibonacci2 = previousFibonacci1;
 			previousFibonacci1 = currentFibonacci;
-			// This will continue till infinity or computer goes out of rage [or till you stop the program]
+			// This will continue till infinity or computer goes out of range [or till you stop the program]
 		}
 	}
 }
